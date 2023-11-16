@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulir</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_tlp">No Telepon</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+
+
+
+</resources>
